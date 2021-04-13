@@ -38,7 +38,7 @@ summary: A review of the known fossil record, body mass, biogeography, and ecolo
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

@@ -1,5 +1,5 @@
 ---
-title: "The pre-Pleistocene fossil thylacinids (Dasyuromorphia: Thylacinidae) and the evolutionary context of the modern thylacine"
+title: "Did the thylacine violate the costs of carnivory? Body mass and sexual dimorphism of an iconic Australian marsupial"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,6 +7,7 @@ title: "The pre-Pleistocene fossil thylacinids (Dasyuromorphia: Thylacinidae) an
 authors:
 - admin
 - Alistair R Evans
+- Damir G Martin
 - Justin W Adams
 
 # Author notes (optional)
@@ -14,8 +15,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2019-09-02T00:00:00Z"
-doi: "10.7717/peerj.7457"
+date: "2020-08-26T00:00:00Z"
+doi: "10.1098/rspb.2020.1537"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -27,18 +28,18 @@ doi: "10.7717/peerj.7457"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *PeerJ*
-publication_short: In *PeerJ*
+publication: In *Proceedings of the Royal Society B - Biological Sciences*
+publication_short: In *Proceedings B*
 
-abstract: The thylacine is popularly used as a classic example of convergent evolution between placental and marsupial mammals. Despite having a fossil history spanning over 20 million years and known since the 1960s, the thylacine is often presented in both scientific literature and popular culture as an evolutionary singleton unique in its morphological and ecological adaptations within the Australian ecosystem. Here, we synthesise and critically evaluate the current state of published knowledge regarding the known fossil record of Thylacinidae prior to the appearance of the modern species. We also present phylogenetic analyses and body mass estimates of the thylacinids to reveal trends in the evolution of hypercarnivory and ecological shifts within the family. We find support that Mutpuracinus archibaldi occupies an uncertain position outside of Thylacinidae, and consider Nimbacinus richi to likely be synonymous with N. dicksoni. The Thylacinidae were small-bodied (< ~8 kg) unspecialised faunivores until after the ~15–14 Ma middle Miocene climatic transition (MMCT). After the MMCT they dramatically increase in size and develop adaptations to a hypercarnivorous diet, potentially in response to the aridification of the Australian environment and the concomitant radiation of dasyurids. This fossil history of the thylacinids provides a foundation for understanding the ecology of the modern thylacine. It provides a framework for future studies of the evolution of hypercarnivory, cursoriality, morphological and ecological disparity, and convergence within mammalian carnivores.
+abstract: The relative body masses of predators and their prey strongly affect the predators’ ecology. An accurate estimate of the mass of an extinct predator is therefore key to revealing its biology and the structure of the ecosystem it inhabited. Until its extinction, the thylacinewas the largest extant carnivorous marsupial, but little data exist regarding its body mass, with an average of 29.5 kg the most commonly used estimate. According to the costs of carnivory model, this estimate predicts that thylacines would have focused on prey subequal to or larger than themselves; however, many studies of their functional morphology suggest a diet of smaller animals. Here, we present new body mass estimates for 93 adult thylacines, including two taxidermy specimens and four complete mounted skeletons, representing 40 known-sex specimens, using three-dimensional volumetric model-informed regressions. We demonstrate that prior estimates substantially overestimated average adult thylacine body mass. We show mixed-sex population mean (16.7 kg), mean male (19.7 kg), and mean female (13.7 kg) body masses well below prior estimates, and below the 21 kg costs of carnivory threshold. Our data show that the thylacine did not violate the costs of carnivory. The thylacine instead occupied the 14.5–21 kg predator/prey range characterized by small-prey predators capable of occasionally switching to relatively large-bodied prey if necessary.
 
 # Summary. An optional shortened abstract.
-summary: A review of the known fossil record, body mass, biogeography, and ecology of Thylacinidae prior to the appearance of the modern species.
+summary: Previous ideas of the average thylacine’s weight were almost 80% too big, dramatically changing our interpretation of the thylacine as a predator in the Australian environment.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -56,10 +57,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: DS Rovinsky'
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: 'Image credit: DS Rovinsky'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
